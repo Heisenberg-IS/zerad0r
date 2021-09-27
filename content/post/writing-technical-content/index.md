@@ -1,5 +1,5 @@
 ---
-title: Writing technical content in Academic
+title: Writing technical content in Academic - Test Editing
 date: 2019-07-12
 math: true
 diagram: true
